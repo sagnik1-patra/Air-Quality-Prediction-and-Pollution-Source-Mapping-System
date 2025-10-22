@@ -1,0 +1,12 @@
+best_params:
+  dropout: 0.4064049895577391
+  filters: 37.0
+  lstm_units: 56.0
+features:
+- pm10
+- no2
+- so2
+- co
+- o3
+model_type: Hybrid CNN-LSTM (AIS+HSA Optimized)
+target: nh3

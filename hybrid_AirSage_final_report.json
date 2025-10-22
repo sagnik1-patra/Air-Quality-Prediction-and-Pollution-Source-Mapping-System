@@ -1,0 +1,60 @@
+{
+    "Model": "Hybrid AIS + HSA CNN-LSTM",
+    "Dataset": "delhi_aqi.csv",
+    "Features_Used": [
+        "pm10",
+        "no2",
+        "so2",
+        "co",
+        "o3"
+    ],
+    "Target": "nh3",
+    "Results": {
+        "RMSE": 8.83817175518922,
+        "R2_Score": 0.8879347957489412,
+        "Top_Pollutant": "co",
+        "Contribution(%)": 78.5
+    },
+    "Sample_Predictions": [
+        {
+            "Actual_AQI": 28.63,
+            "Predicted_AQI": 15.03919792175293
+        },
+        {
+            "Actual_AQI": 41.04,
+            "Predicted_AQI": 28.43191909790039
+        },
+        {
+            "Actual_AQI": 49.14,
+            "Predicted_AQI": 36.772151947021484
+        },
+        {
+            "Actual_AQI": 48.13,
+            "Predicted_AQI": 35.53218460083008
+        },
+        {
+            "Actual_AQI": 46.61,
+            "Predicted_AQI": 35.5578727722168
+        },
+        {
+            "Actual_AQI": 42.05,
+            "Predicted_AQI": 32.65227508544922
+        },
+        {
+            "Actual_AQI": 12.79,
+            "Predicted_AQI": 8.521638870239258
+        },
+        {
+            "Actual_AQI": 6.59,
+            "Predicted_AQI": 4.2483673095703125
+        },
+        {
+            "Actual_AQI": 6.02,
+            "Predicted_AQI": 3.522240400314331
+        },
+        {
+            "Actual_AQI": 12.16,
+            "Predicted_AQI": 9.919960975646973
+        }
+    ]
+}

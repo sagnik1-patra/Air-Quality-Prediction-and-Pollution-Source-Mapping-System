@@ -1,0 +1,12 @@
+best_params:
+  dropout: 0.3491964242482965
+  filters: 76.50017850767719
+  lstm_units: 47.823613415377515
+features:
+- pm10
+- no2
+- so2
+- co
+- o3
+model_type: Hybrid CNN-LSTM + PSO
+target: nh3
