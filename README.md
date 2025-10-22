@@ -113,6 +113,8 @@ Console Output Example
 ✅ Saved detailed predictions: hybrid_AirSage_final_predictions.csv
 ✅ Final report saved: hybrid_AirSage_final_report.json
 
+![Confusion Matrix Heatmap](hybrid_AirSage_comparison_graph.png)
+
 🧩 AIRSAGE HYBRID PREDICTION SUMMARY
 ---------------------------------------------------
 Dataset         : delhi_aqi.csv
