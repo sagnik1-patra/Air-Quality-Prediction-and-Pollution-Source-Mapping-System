@@ -1,5 +1,5 @@
 🌬️ AirSage
-AI-Powered Urban Air Quality Prediction & Pollution Source Mapping System
+AI-Powered Urban Air Quality Prediction & Pollution Source Mapping System.
 🧠 Overview
 
 AirSage is an intelligent air-quality analytics system that fuses IoT sensor data, satellite weather inputs, and deep learning models to forecast AQI trends, detect major pollutants, and map urban pollution hotspots in real time.
